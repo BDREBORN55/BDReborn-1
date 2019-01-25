@@ -68,8 +68,5 @@ More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HT
 
 ### Our Telegram channel:
 
-[@BeyondTeam](https://telegram.me/BeyondTeam)
 
-### Our Web Site:
-
-[Beyond Development Forum](https://Beyond-Dev.iR)
+##m
